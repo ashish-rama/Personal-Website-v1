@@ -1,6 +1,5 @@
 import React from 'react';
 import './Footer.css';
-import * as Icon from '@geist-ui/react-icons'
 import { Spacer, useTheme } from '@geist-ui/react';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import GitHubIcon from '@material-ui/icons/GitHub';

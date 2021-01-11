@@ -7,7 +7,7 @@ function About() {
     return (
         <div className="about">
             <div className="about__profilePicture">
-                <img src={ashish}/>
+                <img src={ashish} alt=""/>
             </div>
             <Text p>Hi, my name is Ashish.</Text>
             <Text p>
